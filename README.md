@@ -1,1 +1,2 @@
-This is jmwhitener’s first git project!
+This is jmwhitener’s first git project! 
+"Hello Odin"
